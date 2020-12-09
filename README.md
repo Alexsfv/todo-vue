@@ -1,4 +1,5 @@
-# todo
+# TodoList
+Первое приложение на vue с целью овладения базовым функционалом Vue js, в том числе Vue Router.
 
 ## Project setup
 ```
@@ -14,6 +15,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
